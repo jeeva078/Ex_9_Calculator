@@ -25,7 +25,6 @@ Step 7: Save and run the application.
 "Program to print the text “calculator operation”.
 
 Developed by:JEEVANANDAM M
-
 Registeration Number :212222220017
 
 ## Activity main.xml
@@ -84,7 +83,6 @@ Registeration Number :212222220017
     </GridLayout>
 
 </LinearLayout>
-
 ```
 ## Main Activity.java
 ```
@@ -158,11 +156,8 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 ## OUTPUT
-
 ![WhatsApp Image 2025-04-30 at 11 06 58 AM](https://github.com/user-attachments/assets/753eeeca-a21c-43dd-b004-580d429b8c6a)
 ![WhatsApp Image 2025-04-30 at 11 06 18 AM (1)](https://github.com/user-attachments/assets/b0cb69cc-5cb4-463a-8f24-685746d88290)
 ![WhatsApp Image 2025-04-30 at 11 06 18 AM](https://github.com/user-attachments/assets/b173afd8-f8c9-4d6e-96b5-896a53ed35f4)
-
-
 ## RESULT
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
